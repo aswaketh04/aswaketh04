@@ -19,7 +19,7 @@
 - 👯 I'm looking to collaborate on **beginner-friendly open source projects**
 - 🎯 Goal: to build and ship my **first real project** soon
 - 💬 Ask me about **anything web dev related — happy to learn together**
-- 📫 How to reach me: **[your email]**
+- 📫 How to reach me: **[aswakethpre@gmail.com]**
 
 ---
 
